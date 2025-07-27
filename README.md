@@ -59,11 +59,8 @@ NexusFlow/
 ├── 📄 index.html          # Main HTML structure
 ├── 🎨 styles.css          # Custom CSS styles
 ├── ⚡ script.js           # JavaScript functionality
-├── 📋 requirements.txt    # Project dependencies
-├── 📖 documentation.txt   # Project documentation
 ├── 🖼️ screenshot.png      # Project preview
 ├── 📝 README.md          # This file
-└── 📰 article.md         # Competition submission article
 ```
 
 ## 🚀 Quick Start
