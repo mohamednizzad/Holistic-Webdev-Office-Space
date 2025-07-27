@@ -10,7 +10,7 @@
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Demo](https://mohamednizzad.github.io/Holistic-Webdev-Office-Space/)**
+🔗 **[View Live Demo](https://holistic-webdev-office-space.vercel.app/)**
 
 ## 📸 Screenshots
 
