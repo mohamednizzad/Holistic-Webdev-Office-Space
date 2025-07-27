@@ -263,6 +263,6 @@ This project was created for the **[Frontend Challenge: Office Edition sponsored
 
 Made with ❤️ for the modern digital workplace
 
-[🔗 Live Demo](https://mohamednizzad.github.io/Holistic-Webdev-Office-Space/) | [📝 Article](article.md) | [🐛 Report Bug](https://github.com/mohamednizzad/Holistic-Webdev-Office-Space/issues) | [💡 Request Feature](https://github.com/mohamednizzad/Holistic-Webdev-Office-Space/issues)
+[🔗 Live Demo](https://holistic-webdev-office-space.vercel.app/) | [📝 Article](https://dev.to/mohamednizzad/behind-the-build-nexusflow-and-my-journey-in-axeros-office-challenge-5gnk) | [🐛 Report Bug](https://github.com/mohamednizzad/Holistic-Webdev-Office-Space/issues) | [💡 Request Feature](https://github.com/mohamednizzad/Holistic-Webdev-Office-Space/issues)
 
 </div>
